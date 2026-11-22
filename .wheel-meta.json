@@ -1,0 +1,22 @@
+{
+  "wheel_id": 942,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-118",
+  "project": "retaining-wall-repairs-toowoomba-pros-and-cons-8b140b4b0b449832",
+  "parent_t1_ref": "toowoombaretainingwalls-158",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining wall repairs toowoomba pros and cons",
+  "intended_url": "https://sitesau.github.io/toowoombaretainingwalls-118/",
+  "tier": "T2",
+  "writeback_nonce": "e21a05b2b8395ba2",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-repairs-toowoomba-common-mistakes-c93a7faa722d53.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
